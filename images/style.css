@@ -1,0 +1,46 @@
+ol {margin:0px; padding-left: 90px;}
+
+h2.zag {text-align:center;}
+
+h3.zag {text-align:center;}
+
+p.arabic {font-family: "Times New Roman"; font-style: italic; font-size: 24px; font-weight: normal;}
+
+.tab {color:#dad2ff; text-align: center; vertical-align: middle;}
+
+.tab td {padding: 5px; border: 1px dotted #999;}
+
+.tab td.l1 {}
+
+.tab td.l2 {border-top: 0px;}
+
+.tab td.c1 {border-left: 0px;}
+
+.tab td.c2 {border-left: 0px;border-top: 0px;}
+
+.tab td.top {border-bottom: 0px;}
+
+
+
+td.img {margin: 0px; padding: 0px; height: 63px; background: url(/img/bg4.jpg) left top repeat-x;}
+
+td.menu a {background: url(img/bg1.jpg) left top repeat-x; font-size: 14px; font-family: Arial; font-weight: bold; color: #ffffff; text-decoration: none; display: block; height: 53px; text-align: center; padding: 10px 0px 0px 0px; margin: 0px;}
+
+td.menu a:hover {background: url(img/bg3.jpg) left top repeat-x; font-size: 14px; font-family: Arial; font-weight: bold; color: #ffffff; text-decoration: none; display: block; height: 53px; text-align: center; padding: 10px 0px 0px 0px; margin: 0px;}
+
+td.menu_a a {background: url(img/bg2.jpg) left top repeat-x; font-size: 14px; font-family: Arial; font-weight: bold; color: #ffffff; text-decoration: none; display: block; height: 53px; text-align: center; padding: 10px 0px 0px 0px; margin: 0px;}
+
+td.menu_a a:hover {background: url(img/bg2.jpg) left top repeat-x; font-size: 14px; font-family: Arial; font-weight: bold; color: #ffffff; text-decoration: none; display: block; height: 53px; text-align: center; padding: 10px 0px 0px 0px; margin: 0px;}
+
+
+td.left {background: url(img/left.jpg) left top repeat-y;}
+
+td.right {background: url(img/right.jpg) right top repeat-y;}
+
+div.tube a {color: #ee8600;text-decoration: none;}
+
+.tube { margin-bottom: 5px; width: 410px;}
+
+div#player { vertical-align:top;}
+
+div#tube_active {margin-bottom: 5px;}

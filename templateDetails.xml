@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+<name>NuryShance</name>
+<creationDate>30.11.2013</creationDate>
+<author>javasingl</author>
+<authorEmail>javasingl@mail.ru</authorEmail>
+<authorUrl>http://javasingl.ru</authorUrl>
+<copyright>Copyright 2013 </copyright>
+<license>GNU General Public License</license>
+<version>1.0.0</version>
+<description> Шаблон</description>
+<files>
+<folder>css</folder>
+<folder>images</folder>
+<filename>index.php</filename>
+<filename>templateDetails.xml</filename>
+<filename>template_thumbnail.png</filename>
+<filename>template_preview.png</filename>
+</files>
+<positions>
+
+<position>topmenu</position>
+</positions>
+<languages folder="language">
+</languages>
+</extension>
